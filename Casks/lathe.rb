@@ -1,6 +1,6 @@
 cask "lathe" do
-  version "0.234.7"
-  sha256 "7e905e9816eb07279a5d1458fca9f41a5ae723d762d0105b437be1c1f418517b"
+  version "0.235.2"
+  sha256 "685dd397f8a495952a0ea0c294e6489de4e9956948dc045831391a877a58a047"
 
   url "https://github.com/paterschris/lathe/releases/download/v#{version}/Lathe-#{version}-aarch64-macos.zip"
   name "Lathe"
